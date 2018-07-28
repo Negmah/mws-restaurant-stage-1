@@ -143,6 +143,10 @@ nav h1 a {
   background-color: #ccc;
 }
 
+leaflet-top {
+  padding-top: 50px;
+}
+
 /* ====================== Restaurant Filtering ====================== */
 .filter-options {
   width: 100%;
@@ -398,6 +402,7 @@ nav h1 a {
     padding-right: 0;
     padding-left: 0;
     text-align: center;
+    height: 30px;
   }
 
   .inside #map-container {
@@ -427,6 +432,7 @@ nav h1 a {
     order: 4;
     width: 100vw;
     padding: 10px 0px 0px 0px;
+    height: 50px;
   }
   
   #reviews-list {
