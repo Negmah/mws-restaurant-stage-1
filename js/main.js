@@ -212,6 +212,7 @@ addMarkersToMap = (restaurants = self.restaurants) => {
   });
 } */
 
+
 /*** ADD SERVICE WORKER ***/
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
